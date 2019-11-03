@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# custom
+temp/
+random_search_results.joblib
+creditcard.csv
+processed_dataset.joblib
